@@ -1,0 +1,62 @@
+[
+    {
+      "id": 0,
+      "price": 599,
+      "name": "Lustrous Hydration: Green Metallic Bottle for Refreshing Sips On-the-Go",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 1,
+      "price": 1999,
+      "name": "Fresh Step: Green Leather Shoe for Style and Comfort",
+      "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 2,
+      "price": 2599,
+      "name": "Monochrome Elegance: White and Black Smartwatch for Ultimate Style",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1399&q=80"
+    },
+    {
+      "id": 3,
+      "price": 99,
+      "name": "Crimson Allure: Enhance Your Beauty with Red Lipstick",
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=715&q=80"
+    },
+    {
+      "id": 4,
+      "price": 222,
+      "name": "Teal Elegance: Green Succulent in a Stylish Ceramic Home Accent",
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"
+    },
+    {
+      "id": 5,
+      "price": 15999,
+      "name": "Glamour Duo: Gold Link Bracelet and Black & Gold Casio Watch",
+      "image": "https://images.unsplash.com/photo-1613177794106-be20802b11d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 6,
+      "price": 64599,
+      "name": "Capturing Shadows: Black Nikon DSLR Camera for Stunning Photography",
+      "image": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80"
+    },
+    {
+      "id": 7,
+      "price": 49,
+      "name": "Iconic Refreshment: Crisp and Cool Pepsi Soda Can Delight",
+      "image": "https://images.unsplash.com/photo-1553456558-aff63285bdd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": 8,
+      "price": 999,
+      "name": "Sonic Bliss: Immerse Yourself with Premium Headphone Experience",
+      "image": "https://plus.unsplash.com/premium_photo-1679913792906-13ccc5c84d44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+      "id": 9,
+      "price": 799,
+      "name": "Sleek Utility: Black Nike Backpack for Style and Functionality",
+      "image": "https://images.unsplash.com/photo-1622560481979-f5b0174242a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
+    }
+  ]

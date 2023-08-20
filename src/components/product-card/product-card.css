@@ -1,0 +1,46 @@
+/* Converted CSS from SCSS */
+.productCard {
+    border: 1px solid slateblue;
+    border-radius: 2rem;
+    text-align: center;
+    position: relative;
+    padding-bottom: 1rem;
+    flex: 0 1 250px;
+  }
+  
+  .productCard img {
+    border-radius: 2rem 2rem 0 0;
+    width: 100%;
+    height: auto;
+  }
+  
+  .productCard .discount {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: rgb(16, 136, 62);
+    border-radius: 1rem;
+    color: white;
+  }
+  
+  .productCard .stars {
+    color: rgb(16, 136, 62);
+  }
+  
+  .productCard .prices {
+    color: rgb(16, 136, 62);
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .productCard .prices .discounted-price {
+    text-decoration: line-through;
+  }
+  
+  .productCard .prices .standart-price {
+    font-weight: bold;
+  }
+  
